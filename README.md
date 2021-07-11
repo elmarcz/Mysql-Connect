@@ -1,3 +1,5 @@
+Create your mysql database and connect to it.
+
 ## Usage 🔑
 ```javascript
 
