@@ -8,7 +8,7 @@ npm init -y
 npm install mysql
 ```
 
-##Downloads 🧧
+## Downloads 🧧
 ```
 XAAMP: https://www.apachefriends.org/es/index.html
 ```
