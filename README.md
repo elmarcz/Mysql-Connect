@@ -10,5 +10,5 @@ npm install mysql
 
 ## Downloads 🧧
 ```
-XAAMP: https://www.apachefriends.org/es/index.html
+XAAMP: https://www.apachefriends.org/index.html
 ```
