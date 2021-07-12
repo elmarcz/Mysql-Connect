@@ -20,5 +20,5 @@ Enter to localhost
 
 ### Code 🌌
 ```
-![Code](https://github.com/elmarcz/mysql/blob/main/mysql.js)
+(https://github.com/elmarcz/mysql/blob/main/mysql.js)
 ```
