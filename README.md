@@ -17,3 +17,8 @@ XAAMP: https://www.apachefriends.org/index.html
 Enter to localhost
 ```
 ![Enter to localhost](https://i.imgur.com/ARytSXA_d.webp?maxwidth=760&fidelity=grand)
+
+## Code 🌌
+```
+[Code](https://github.com/elmarcz/mysql/blob/main/mysql.js)
+```
