@@ -1,3 +1,5 @@
+<h1 align="center">Mysql Database</h1>
+
 Create your mysql database and connect to it.
 
 ## Usage 🔑
@@ -20,7 +22,7 @@ Enter to localhost
 
 ### Code 🌌
 ```
-(https://github.com/elmarcz/mysql/blob/main/mysql.js)
+(https://github.com/elmarcz/mysql/blob/main/src/index.js)
 ```
 
 ### 👤 Stay in touch
